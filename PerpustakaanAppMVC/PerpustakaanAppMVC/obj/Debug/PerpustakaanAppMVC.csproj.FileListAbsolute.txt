@@ -1,0 +1,14 @@
+C:\21.11.4156_Raafi Aria\PemrogLanjut\Praktikum10\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.csproj.AssemblyReference.cache
+C:\21.11.4156_Raafi Aria\PemrogLanjut\Praktikum10\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.Properties.Resources.resources
+C:\21.11.4156_Raafi Aria\PemrogLanjut\Praktikum10\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.View.FrmEntryMahasiswa.resources
+C:\21.11.4156_Raafi Aria\PemrogLanjut\Praktikum10\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.View.frmMahasiswa.resources
+C:\21.11.4156_Raafi Aria\PemrogLanjut\Praktikum10\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.csproj.GenerateResource.cache
+C:\21.11.4156_Raafi Aria\PemrogLanjut\Praktikum10\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.csproj.CoreCompileInputs.cache
+C:\21.11.4156_Raafi Aria\PemrogLanjut\Praktikum10\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\PerpustakaanAppMVC.exe.config
+C:\21.11.4156_Raafi Aria\PemrogLanjut\Praktikum10\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\PerpustakaanAppMVC.exe
+C:\21.11.4156_Raafi Aria\PemrogLanjut\Praktikum10\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\PerpustakaanAppMVC.pdb
+C:\21.11.4156_Raafi Aria\PemrogLanjut\Praktikum10\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\System.Data.SQLite.dll
+C:\21.11.4156_Raafi Aria\PemrogLanjut\Praktikum10\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\System.Data.SQLite.xml
+C:\21.11.4156_Raafi Aria\PemrogLanjut\Praktikum10\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\Perpusta.EBCF3FD0.Up2Date
+C:\21.11.4156_Raafi Aria\PemrogLanjut\Praktikum10\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.exe
+C:\21.11.4156_Raafi Aria\PemrogLanjut\Praktikum10\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.pdb
